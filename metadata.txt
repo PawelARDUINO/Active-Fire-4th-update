@@ -5,15 +5,15 @@
 [general]
 name=Active FIre
 qgisMinimumVersion=3.0
-description=Active Fire Data within 24 hours (MODIS)
+description=Active Fire Data within 24 hours (MODIS & VIIRS)
 version=0.3
-author=The Map Workshop
+author=Pawel Dzierzynski
 email=pawel.jan.dzierzynski@gmail.com
 
 about=Display the latest active fire data from MODIS, from the past 24 hours.
 
-tracker=https://github.com/PawelARDUINO/Active-FIre3/issues
-repository=https://github.com/PawelARDUINO/Active-FIre3
+tracker=https://github.com/PawelARDUINO/Active-Fire-4th-update/issues
+repository=https://github.com/PawelARDUINO/Active-Fire-4th-update
 # End of mandatory metadata
 
 # Recommended items:
@@ -25,7 +25,7 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=python
 
-homepage=https://github.com/PawelARDUINO/Active-FIre3
+homepage=https://github.com/PawelARDUINO/Active-Fire-4th-update
 category=Plugins
 icon=firicon.png
 # experimental flag
