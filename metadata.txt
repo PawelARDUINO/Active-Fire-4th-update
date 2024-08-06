@@ -6,7 +6,7 @@
 name=Active FIre
 qgisMinimumVersion=3.0
 description=Active Fire Data within 24 hours (MODIS & VIIRS)
-version=0.3
+version=0.4
 author=Pawel Dzierzynski
 email=pawel.jan.dzierzynski@gmail.com
 
