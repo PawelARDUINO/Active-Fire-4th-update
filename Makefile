@@ -3,10 +3,10 @@
 #
 # Active Fire Data within 24 hours (MODIS)
 #							 -------------------
-#		begin				: 2020-01-28
+#		begin				: 2024-08-06
 #		git sha				: $Format:%H$
-#		copyright			: (C) 2020 by The Map Workshop
-#		email				: themapworkshop@gmail.com
+#		copyright			: (C) 2024 by Pawel Dzierzynski
+#		email				: pawel.jan.dzierzynski@gmail.com
 # ***************************************************************************/
 #
 #/***************************************************************************
